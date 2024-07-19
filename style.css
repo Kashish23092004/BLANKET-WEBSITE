@@ -1,0 +1,451 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color:rgb(244, 195, 204);
+}
+.nav{
+    display: flex;
+    background-color: antiquewhite;
+
+}
+.best{
+    margin-right:80px;
+    margin-left:80px;
+    padding-top:20px;
+    padding-bottom:20px; 
+    font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+#mg{
+    margin-right:80px;
+    margin-left:80px;
+    padding-top:20px;
+    padding-bottom:20px;
+     font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.new{
+    margin-left:80px;
+    margin-right:80px;padding-top:20px;
+    padding-bottom:20px;
+     font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.today{
+    margin-left:80px;
+    margin-right:80px;
+    padding-top:20px;
+    padding-bottom:20px;
+     font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.cust{
+    margin-left:80px;
+    margin-right:80px;
+    padding-top:20px;
+    padding-bottom:20px;
+     font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.sort{
+    margin-left:80px;
+    margin-right:80px;
+    padding-top:20px;
+    padding-bottom:20px;
+     font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.sign{
+    margin-left:80px;
+    margin-right:80px;
+    padding-top:20px;
+    padding-bottom:20px;
+     font-size:xx-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.bg{
+    width:1570px;
+    height:200px;
+    background-image:url(background.png);
+    background-size: cover;
+   
+}
+.p{
+    width:200px;
+    height:200px;
+    padding-top:5px;
+    padding-bottom:0px;
+    padding-left:10px;
+    padding-right:10px;
+    
+  
+}
+.about{
+    background-color:antiquewhite;
+    margin-top:30px;
+    display: flex;
+    width:600px;
+    height:300px;
+    margin-left:500px;
+    border-radius:30px;
+    border:5px dotted rgb(238, 63, 238);
+}
+.us{
+    display: inline-block;
+    margin-left:700px;
+    margin-top:30px;
+    background-color:antiquewhite;
+    border:5px double rgb(238, 63, 238);
+}
+.p2{
+    width:200px;
+    background-color:antiquewhite;
+    margin-left:30px;
+    padding-left:50px;    
+    padding-top:5px;
+    padding-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+    width:200px;
+    height:300px;
+    border-radius:25px;
+   border:5px dotted brown;
+}
+.temp{
+    margin-top: 100px;
+    display: flex;
+}
+.temp1{
+    padding-left:15=00px;
+    padding-right:50px;
+    padding-top:-40px;
+    
+   
+}
+.temp2{
+    padding-left:70px;
+    padding-right:50px;
+}
+.temp3{
+    padding-left:70px;
+    padding-right:50px;
+}
+.temp4{
+    padding-left:70px;
+    padding-right:50px;
+}
+.gate{
+    height: 170px;
+    width:300px;
+}
+h2{
+    background-color: rgb(149, 0, 255);
+    color: rgb(238, 191, 5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left:80px;
+    
+}
+p{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:large;
+font-weight: bold;
+padding-left:80px;
+}
+h3{
+    padding-left:750px;
+    margin-top:100px;
+    font-weight: 900;
+    font-size: xx-large;
+    font-family: cursive;
+    color: rgb(163, 30, 7);
+  
+}
+.design{
+    width:400px;
+    height:300px;
+    margin-left:1190px;
+    margin-top:-1020px;
+}
+.design1{
+    width:300px;
+    height:300px;
+    margin-top:-500px;
+}
+.teer{
+    margin-left:660px;
+}
+.h1{
+    display: inline-block;
+    margin-left:640px;
+    margin-top:10px;
+    background-color:antiquewhite;
+    border:5px double rgb(238, 63, 238); 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 900;
+    padding-right:40px;
+    padding-left:40px;
+}
+.shops{
+    display: flex;
+    margin-top:100px;
+}
+.shop1{
+    padding-right:400px;
+}
+.shop2{
+    padding-right:310px; 
+}
+p{
+color: blueviolet;
+background-color: antiquewhite;
+font-weight: bolder;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.shopss{
+    display: flex;
+    margin-top:100px;
+}
+.shop4{
+    padding-right:400px;
+}
+.shop5{
+    padding-right:310px; 
+}
+.bor{
+    margin-left:530px;
+    margin-top:100px;
+}
+.s6{
+    display: inline;
+    padding-right:70px;
+}
+.our{
+    display: inline-block;
+    margin-left:250px;
+    margin-top:40px;
+    background-color:antiquewhite;
+    border:5px double rgb(238, 63, 238); 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 900;
+    padding-right:40px;
+    padding-left:40px;
+}
+@media screen and (max-width: 768px) {
+    /* Styles for screens smaller than 768px */
+    }@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Styles for screens between 768px and 1024px */
+    }@media screen and (min-width: 1024px) {
+    /* Styles for screens larger than 1024px */
+    }
+    .footer{
+        background-color: rgb(45, 44, 44);
+         transition-property: all; 
+        transition-duration:1.4s;
+        color: rgb(238, 140, 12);
+        height:50px;
+    }
+    #headdown{
+        display: flex;
+        background-color: rgb(45, 44, 44);
+        padding-top:50px;
+    }
+    h4{
+        padding-top:30px;
+        padding-right:20px;
+        padding-left:20px;
+        background-color: rgb(45, 44, 44);
+    }
+    #best{
+        padding-top:30px;
+        padding-right:20px;
+        padding-left:20px;
+        background-color: rgb(45, 44, 44);
+    }
+    #cust{
+        padding-top:30px;
+        padding-right:20px;
+        padding-left:20px;
+        background-color: rgb(45, 44, 44);
+    }
+    #new{
+        padding-top:30px;
+        padding-right:20px;
+        padding-left:20px;
+        background-color: rgb(45, 44, 44);
+    }
+    #to{
+        padding-top:30px;
+        padding-right:20px;
+        padding-left:20px;
+        background-color: rgb(45, 44, 44);
+    }
+    #gift{
+        padding-top:30px;
+        padding-right:20px;
+        padding-left:20px;
+        background-color: rgb(45, 44, 44);
+    }
+    h4{
+        padding-bottom:20px;
+    }
+/* ////////////////////////////////////////// */
+.best:hover{  
+    color: rgb(239, 30, 30);
+    cursor: pointer;
+    
+    
+}
+.new:hover{
+   color: rgb(235, 23, 23); 
+   cursor: pointer;
+}
+.today:hover{
+   color: rgb(235, 23, 23);
+   cursor: pointer; 
+}
+.cust:hover{
+color: rgb(235, 23, 23);
+cursor: pointer;
+}
+.sort:hover{
+  color: rgb(235, 23, 23); 
+  cursor: pointer; 
+}
+.sign:hover{
+ color: rgb(235, 23, 23);  
+ cursor: pointer; 
+}
+
+
+.us:hover{
+  transition: all;
+    background-color:rgb(244, 195, 204);
+    transform:translatex(3px);
+    border-color:rgb(244, 195, 204);
+    color: rgb(170, 93, 243);
+    border:5px dotted palevioletred;
+     transition-duration:2s;
+    
+}
+.p2:hover{
+    color:rgb(236, 85, 113);
+     cursor: pointer;
+
+}
+
+.temp1:hover{
+    transition: all;
+    transform:translatex(10px);
+     transition-duration:2s;
+}
+.temp2:hover{
+    transition: all;
+    transform:translatex(10px); 
+     transition-duration:2s;
+}
+.temp3:hover{
+    transition: all;
+ transform:translatex(10px); 
+  transition-duration:2s;
+}
+h2:hover{
+  color: blue;
+  background-color:goldenrod;
+   transition-duration:2s;
+}
+
+.shop1:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+.shop1:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+.shop2:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+.shop3:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+.shop4:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+.shop5:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+.shop6:hover{
+    transform: translateX(10px);
+    transition-duration:1s;
+
+}
+button:hover{
+transform: skewX(40px);
+background-color: rgb(232, 93, 121);
+border:2px solid blueviolet;
+font-weight: 900;
+ transition-duration:2s;
+cursor: pointer;
+}
+    #best:hover{
+   color: blueviolet;
+    transition-duration:2s;
+    }
+    #cust:hover{
+        color: blueviolet;
+         transition-duration:2s;
+    }
+    #new:hover{
+        color: blueviolet;
+         transition-duration:2s;
+    }
+    #to:hover{
+        color: blueviolet;
+         transition-duration:2s;
+    }
+    #gift:hover{
+        color: blueviolet;
+         transition-duration:2s;
+    }
+    h4:hover{
+        color: blueviolet;
+         transition-duration:2s;
+    }
+
+.bor:hover{
+    transform:translateX(-70px);
+transition-duration:2s;
+}
+
+button:active{
+    background-color:blueviolet;
+    border:50%;
+    transition-duration:0.2s;
+}
